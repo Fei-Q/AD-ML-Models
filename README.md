@@ -22,9 +22,4 @@ The dataset itself is not included in this repository.
 ## Files
 - `ad_mri.ipynb`: end-to-end training + evaluation notebook
 - `AD_mri_cnn_classifier.keras`: saved model (Keras format)
-- `figures/`: accuracy/loss curves and confusion matrix
-
-## Reproducibility
-Install dependencies:
-```bash
-pip install -r requirements.txt
+- figures: accuracy/loss curves and confusion matrix

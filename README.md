@@ -6,7 +6,7 @@ A lightweight convolutional neural network (CNN) trained to classify preprocesse
 - **Accuracy:** 0.968
 - **Macro F1:** 0.964
 
-See `figures/` for training curves and the test confusion matrix.
+See figures for training curves and the test confusion matrix.
 
 ## Dataset
 This project uses a preprocessed MRI dataset from Kaggle provided by Hack4Health for a Hackathon.

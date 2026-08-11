@@ -2,6 +2,8 @@
 
 A lightweight convolutional neural network (CNN) trained to classify preprocessed brain MRI images into 4 classes.
 
+Dataset: https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented
+
 ## Test Results
 - **Accuracy:** 0.968
 - **Macro F1:** 0.964
